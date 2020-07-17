@@ -33,7 +33,6 @@
 #define IDR_DEFEAT                      360
 #define IDR_VICTORY                     361
 #define IDD_DIALOG2                     364
-#define IDB_BITMAP1                     366
 #define IDC_EDIT1                       1006
 #define IDC_WELCOME0                    1007
 #define ID_Menu                         32771

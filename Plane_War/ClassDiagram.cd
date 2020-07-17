@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CAboutDlg::__unnamed_enum_0022_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Plane_War.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Plane_War.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBossPlane">
+    <Position X="14" Y="6.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CBossPlane::BossId" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CBossPlane.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAjAAAAAgABAAAQCAAAAAIBwDAAwAAAAAAAAAAAgA=</HashCode>
+      <FileName>CBossPlane.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBullet">
+    <Position X="3.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACIIAAAAAAAAAAAAAAAAAAAQAQADAAAAAAAAIAA=</HashCode>
+      <FileName>CBullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDefence">
+    <Position X="9.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAgAAAAAAAAAAAQCAAAQAABAAAgACAAAAAAQAAAAA=</HashCode>
+      <FileName>CDefence.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEnemyBullet">
+    <Position X="4.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgACAAAAAAAAAQCggAAAABAAAAAAAAAgAAAAAgEA=</HashCode>
+      <FileName>CEnemyBullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEnemyPlane">
+    <Position X="11.5" Y="8" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CEnemyPlane::pD" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CEnemyPlane.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BAAAgAAAAAgAAAIAQCAIAAAABAAAACAAAAAAAAAAAEA=</HashCode>
+      <FileName>CEnemyPlane.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CExplosion">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAABAAAAAAQCAIAAIABAAAAAAAAAAQBAAIAAA=</HashCode>
+      <FileName>CExplosion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGem">
+    <Position X="6.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAIAIAAQAAQCAQAAAIBAAAAQAAAAAAAAAAoAA=</HashCode>
+      <FileName>CGem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSDialog">
+    <Position X="18.75" Y="6.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CSDialog::__unnamed_enum_001c_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CSDialog.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAABAAAACAA=</HashCode>
+      <FileName>CSDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CZDialog">
+    <Position X="20.75" Y="5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CZDialog::__unnamed_enum_029f_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CZDialog.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAACAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>CZDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGameObject">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAgBAIAAACBEAAAAAAAAEI=</HashCode>
+      <FileName>CGameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainFrame">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAIAAAAACAAAiAAAgCAAEgAAAAAAAAAAABA=</HashCode>
+      <FileName>MainFrm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyBullet">
+    <Position X="1.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAEA=</HashCode>
+      <FileName>CMyBullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyPlane">
+    <Position X="16" Y="6.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CMyPlane::pD" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CMyPlane.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAgAQAAAgAAABASCAAAQAABAIgAAAgAACAACgAAAA=</HashCode>
+      <FileName>CMyPlane.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlane">
+    <Position X="14" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAQAAAAAAIAAAAAAAQCQCFAEBgAAAAAAA=</HashCode>
+      <FileName>CPlane.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlaneWarApp">
+    <Position X="18.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAABAAAAAAQAAAABAAAAAAA=</HashCode>
+      <FileName>Plane_War.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlaneWarDoc">
+    <Position X="18.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAEAAAAAAAACAAAgIAgASggAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Plane_WarDoc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlaneWarView">
+    <Position X="22.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CPlaneWarView::ObjType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Plane_WarView.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EAixABAIEARhDiSAGMBlgIIAoLgAJCFABAoIAAAlA2A=</HashCode>
+      <FileName>Plane_WarView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRegularBullet">
+    <Position X="0.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAQAEAAIQCAAAAAABAAAAAAAAAAAAQABgAA=</HashCode>
+      <FileName>CRegularBullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
